@@ -1,3 +1,7 @@
+# Overview
+This repo provides a template for a resume built using Typst.
+See [main.pdf](./main.pdf) to get an idea of what the template looks like.
+
 # Machine Setup
 ## Typst
 Working as of Typst 0.13.0.
