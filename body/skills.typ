@@ -2,7 +2,7 @@
 #let Skills = Skills.with(aligned: left)
 
 = Skills
-Here are a list of skills rendered using the `Skills` component.
+Here are some skills rendered using the `Skills` component.
 #let generic-skills = (
   [Communication],
   [Finance],
